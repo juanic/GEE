@@ -1,4 +1,5 @@
-# GEE
+# GEE - Generador de Excusas de Emergencia
+
 Generador de Excusas de Emergencia, basado en una Raspberry Pi Pico W
 ![Image Alt text](/images/gee_front.png)
 Utilizando ChatGTP se generaron 3 listas de excusas:
